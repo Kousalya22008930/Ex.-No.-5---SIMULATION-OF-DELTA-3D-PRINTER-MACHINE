@@ -27,10 +27,10 @@
 
 ## Output:
 
-### Name: Dharini PV
-### Register Number: 212222240024
+### Name: KOUSALYA A.
+### Register Number: 212222230068
 
-![image](https://github.com/DHARINIPV/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119400845/40a7e552-fee6-4cb7-b8a6-890b48f24737)
+![image](https://github.com/Kousalya22008930/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119389108/631ae5a8-fbd0-4b8d-8dce-66945c62eb89)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
